@@ -1,0 +1,5 @@
+dnspython==2.7.0
+psycopg2==2.9.10
+pymongo==4.11
+pymssql==2.3.2
+PyMySQL==1.1.1

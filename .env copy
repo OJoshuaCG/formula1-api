@@ -1,0 +1,5 @@
+DB_ENGINE=mysql
+DB_HOST=localhost
+DB_USER=your-user
+DB_PASSWORD=your-password
+DB_DATABASE=formula1
